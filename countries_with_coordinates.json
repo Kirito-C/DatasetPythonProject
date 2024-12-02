@@ -1,0 +1,82 @@
+[
+    {
+        "country": "Brazil",
+        "latitude": -14.235,
+        "longitude": -51.9253
+    },
+    {
+        "country": "Argentina",
+        "latitude": -38.4161,
+        "longitude": -63.6167
+    },
+    {
+        "country": "United States",
+        "latitude": 37.0902,
+        "longitude": -95.7129
+    },
+    {
+        "country": "Russia",
+        "latitude": 61.5240,
+        "longitude": 105.3188
+    },
+    {
+        "country": "Canada",
+        "latitude": 56.1304,
+        "longitude": -106.3468
+    },
+    {
+        "country": "Latvia",
+        "latitude": 56.8796,
+        "longitude": 24.6032
+    },
+    {
+        "country": "South Korea",
+        "latitude": 35.9078,
+        "longitude": 127.7669
+    },
+    {
+        "country": "Sweden",
+        "latitude": 60.1282,
+        "longitude": 18.6435
+    },
+    {
+        "country": "Ukraine",
+        "latitude": 48.3794,
+        "longitude": 31.1656
+    },
+    {
+        "country": "United Kingdom",
+        "latitude": 55.3781,
+        "longitude": -3.436
+    },
+    {
+        "country": "Finland",
+        "latitude": 61.9241,
+        "longitude": 25.7482
+    },
+    {
+        "country": "France",
+        "latitude": 46.6034,
+        "longitude": 1.8883
+    },
+    {
+        "country": "Turkey",
+        "latitude": 38.9637,
+        "longitude": 35.2433
+    },
+    {
+        "country": "Belgium",
+        "latitude": 50.5039,
+        "longitude": 4.4699
+    },
+    {
+        "country": "Kazakhstan",
+        "latitude": 48.0196,
+        "longitude": 66.9237
+    },
+    {
+        "country": "Chile",
+        "latitude": -35.6751,
+        "longitude": -71.543
+    }
+]
